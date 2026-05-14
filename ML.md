@@ -1125,7 +1125,7 @@ Linear Regression models the relationship between input and output using a strai
 
 For one variable:
 
-genui{"math_block_widget_always_prefetch_v2":{"content":"y = mx + c"}}
+<img width="860" height="380" alt="image" src="https://github.com/user-attachments/assets/ebf564bb-58fc-4562-b664-438fe3f4f7f4" />
 
 Where:
 
