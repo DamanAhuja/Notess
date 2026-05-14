@@ -751,7 +751,8 @@ Transforms data with:
 
 Formula:
 
-genui{"math_block_widget_always_prefetch_v2":{"content":"z = \frac{x - \mu}{\sigma}"}}
+<img width="851" height="317" alt="image" src="https://github.com/user-attachments/assets/2b5ca95d-3fd9-4af4-8838-3d792caadea3" />
+
 
 ---
 
@@ -1126,7 +1127,7 @@ Linear Regression models the relationship between input and output using a strai
 
 For one variable:
 
-<img width="860" height="380" alt="image" src="https://github.com/user-attachments/assets/ebf564bb-58fc-4562-b664-438fe3f4f7f4" />
+<img width="779" height="248" alt="image" src="https://github.com/user-attachments/assets/c943678e-e697-4cba-af73-3c36252f6d6f" />
 
 Where:
 
@@ -1207,7 +1208,7 @@ House price predicted using:
 
 # 🔥 Equation
 
-y = b_0 + b_1x_1 + b_2x_2 + \cdots + b_nx_n
+<img width="293" height="39" alt="image" src="https://github.com/user-attachments/assets/98b9b532-4f7b-4e34-8b2e-cc1473f732ae" />
 
 ---
 
@@ -1247,7 +1248,7 @@ Minimize cost/error.
 
 Mean Squared Error (MSE)
 
-MSE = \frac{1}{n}\sum_{i=1}^{n}(y_i - \hat{y}_i)^2
+<img width="223" height="53" alt="image" src="https://github.com/user-attachments/assets/0887ae55-8db4-4c5e-88bb-33aa545a0860" />
 
 ---
 
@@ -1288,7 +1289,7 @@ Move step-by-step toward minimum error.
 
 # 🔥 Update Rule
 
-\theta := \theta - \alpha \frac{\partial J(\theta)}{\partial \theta}
+<img width="135" height="45" alt="image" src="https://github.com/user-attachments/assets/c60177ca-3501-4255-b61c-aca5b400f0c6" />
 
 Where:
 
@@ -1454,7 +1455,7 @@ VERY IMPORTANT.
 
 Average absolute error.
 
-MAE = \frac{1}{n}\sum_{i=1}^{n}|y_i - \hat{y}_i|
+<img width="226" height="52" alt="image" src="https://github.com/user-attachments/assets/2ee5e39c-5b05-4b2a-91c1-33c4163cfa49" />
 
 ---
 
@@ -1468,7 +1469,7 @@ Average squared error.
 
 Square root of MSE.
 
-RMSE = \sqrt{MSE}
+<img width="166" height="46" alt="image" src="https://github.com/user-attachments/assets/8be112e2-689d-4c8b-8c04-43ed1c39c9f3" />
 
 ---
 
@@ -1676,7 +1677,7 @@ Probability between:
 
 # 🔥 Uses Sigmoid Function
 
-\sigma(z)=\frac{1}{1+e^{-z}}
+<img width="124" height="49" alt="image" src="https://github.com/user-attachments/assets/81aa523d-ddaf-489b-a629-e0f6091dd8cd" />
 
 ---
 
@@ -1771,7 +1772,7 @@ Features are independent.
 
 # 🔥 Bayes Theorem
 
-genui{"math_block_widget_always_prefetch_v2":{"content":"P(A|B)=\frac{P(B|A)P(A)}{P(B)}"}}
+<img width="784" height="260" alt="image" src="https://github.com/user-attachments/assets/397c3879-bea9-4cac-a25b-6a812ea0d4ca" />
 
 ---
 
@@ -1832,7 +1833,7 @@ Classify fruit using nearby fruits.
 
 Usually Euclidean distance.
 
-d = \sqrt{\sum_{i=1}^{n}(x_i-y_i)^2}
+<img width="195" height="50" alt="image" src="https://github.com/user-attachments/assets/8b44d8d9-2876-4194-aed9-53d6458171d8" />
 
 ---
 
@@ -2076,7 +2077,8 @@ EXTREMELY IMPORTANT.
 Percentage of correct predictions.
 
 Formula:
-Accuracy = \frac{TP+TN}{TP+TN+FP+FN}
+
+<img width="231" height="45" alt="image" src="https://github.com/user-attachments/assets/a3adbd4e-dcbd-48e6-a45a-b600f14c491d" />
 
 ---
 
@@ -2086,7 +2088,7 @@ Accuracy = \frac{TP+TN}{TP+TN+FP+FN}
 
 How many predicted positives are actually correct.
 
-Precision = \frac{TP}{TP+FP}
+<img width="177" height="53" alt="image" src="https://github.com/user-attachments/assets/79ccf0dc-0d12-4c09-ac65-593c6624426c" />
 
 ---
 
@@ -2096,7 +2098,7 @@ Precision = \frac{TP}{TP+FP}
 
 How many actual positives identified correctly.
 
-Recall = \frac{TP}{TP+FN}
+<img width="142" height="49" alt="image" src="https://github.com/user-attachments/assets/d9dc58ad-4840-4b5c-92d6-29d0b775d86f" />
 
 ---
 
@@ -2104,7 +2106,7 @@ Recall = \frac{TP}{TP+FN}
 
 Balance of precision and recall.
 
-F1 = 2\cdot\frac{Precision \cdot Recall}{Precision+Recall}
+<img width="206" height="56" alt="image" src="https://github.com/user-attachments/assets/bed7c488-11ca-4f69-ba61-92484b3be94a" />
 
 ---
 
@@ -2345,7 +2347,8 @@ MOST COMMON.
 Measures straight-line distance.
 
 Formula:
-d = \sqrt{\sum_{i=1}^{n}(x_i-y_i)^2}
+
+<img width="191" height="46" alt="image" src="https://github.com/user-attachments/assets/96d68e5a-7920-4c7e-8204-33cf7e286a11" />
 
 ---
 
@@ -2360,7 +2363,8 @@ Distance between two points in graph.
 Measures grid-like distance.
 
 Formula:
-d = \sum_{i=1}^{n}|x_i-y_i|
+
+<img width="158" height="46" alt="image" src="https://github.com/user-attachments/assets/12d14302-c766-443f-9777-07f4742eb9dc" />
 
 ---
 
