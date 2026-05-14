@@ -730,7 +730,8 @@ Scales data between:
 ```
 
 Formula:
-x' = \frac{x - x_{min}}{x_{max} - x_{min}}
+
+<img width="271" height="100" alt="image" src="https://github.com/user-attachments/assets/cac4af30-904b-443e-bd2a-c8b7f513eedf" />
 
 ---
 
